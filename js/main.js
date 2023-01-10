@@ -54,7 +54,7 @@
 		var idx = $.fancybox.getInstance().current.opts.$orig; 
 		var thenum = src.match(/\d+/)[0] ;  
 		console.log(thenum)  ; 
-		window.location = '/editor.html?img=' + thenum;
+		window.location = 'intelegance_systems_project/editor.html?img=' + thenum;
 	});		
 
 	
