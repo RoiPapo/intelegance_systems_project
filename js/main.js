@@ -36,7 +36,7 @@
 		console.log("img_num")
 		console.log("/intelegance_systems_project/images/img_"+img_num+".jpg")
 		// document.getElementById('working-image').style.background = url('/ims');
-		document.getElementById('working-image').style.backgroundImage  = "url(/images/img_"+img_num+".jpg)";
+		document.getElementById('working-image').style.backgroundImage  = "url(/intelegance_systems_project/images/img_"+img_num+".jpg)";
 		// $("#working-image").css({"backgroundColor":"black","color":"white"});
 	 }
 	
