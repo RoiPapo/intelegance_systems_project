@@ -856,9 +856,9 @@ h1, h2, h3, h4, h5,
 #working-image {
   margin-top: 20px;
   /* padding-top: 300px; */
-  height: 500px;
-
-  background-size:50%;
+    height: 502px;
+    width: 1197px;
+    background-size: 55%;
   background-position: top center;
   background-repeat: no-repeat; }
 
